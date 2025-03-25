@@ -7,9 +7,12 @@
 
 
 <div>
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=rcampux&show_icons=true&theme="/>
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcampux&layout=compact&theme="/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=rcampux&show_icons=true&bg_color=f9f9f9&title_color=000000&text_color=333333&icon_color=0077B5&border_color=8A2BE2"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcampux&layout=compact&bg_color=f9f9f9&title_color=000000&text_color=333333&border_color=8A2BE2"/>
 </div>
+
+
+
 
 ## 🚀 Tecnologias & Ferramentas
 
