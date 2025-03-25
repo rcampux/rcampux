@@ -7,8 +7,8 @@
 
 
 <div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rcampux&show_icons=true&theme=dark"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcampux&layout=compact&theme=dark"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=rcampux&show_icons=true&theme=dark"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcampux&layout=compact&theme=dark"/>
 </div>
 
 ## 🚀 Tecnologias & Ferramentas
